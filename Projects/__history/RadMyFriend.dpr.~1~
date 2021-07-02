@@ -1,0 +1,20 @@
+program RadShlt;
+
+uses
+  Vcl.Forms,
+  DataModule in 'DataModule.pas' {DataModule1},
+  AddNewExpense in 'AddNewExpense.pas' {AddNewExpenses},
+  MainMenu in 'MainMenu.pas' {MainForm},
+  DeleteWorker in 'DeleteWorker.pas' {DeleteWorkerForm};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.CreateForm(TAddNewExpenses, AddNewExpenses);
+  Application.CreateForm(TMainForm, MainForm);
+  Application.CreateForm(TDeleteWorkerForm, DeleteWorkerForm);
+  Application.Run;
+end.

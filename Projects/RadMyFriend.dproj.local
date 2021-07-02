@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.029,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.311,C:\Users\User\Documents\Embarcadero\Studio\Projects\AddNewWorker.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,C:\Users\User\Documents\Embarcadero\Studio\Projects\AddInfo.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,C:\Users\User\Documents\Embarcadero\Studio\Projects\UpdateWorker.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\MainMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,C:\Users\User\Documents\Embarcadero\Studio\Projects\DataModule.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\RAD\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,C:\Users\User\Documents\Embarcadero\Studio\Projects\DeleteWorker.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\Users\User\Documents\Embarcadero\Studio\Projects\UpdateExpense.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\RadShlt.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\User\Documents\Embarcadero\Studio\Projects\RAD\DataModule.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,C:\Users\User\Documents\Embarcadero\Studio\Projects\DataModule.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\RAD\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\Users\User\Documents\Embarcadero\Studio\Projects\UpdateExpense.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,C:\Users\User\Documents\Embarcadero\Studio\Projects\AddInfo.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,C:\Users\User\Documents\Embarcadero\Studio\Projects\UpdateWorker.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.229,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\AddNewExpense.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.311,C:\Users\User\Documents\Embarcadero\Studio\Projects\AddNewWorker.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\User\Documents\Embarcadero\Studio\Projects\RAD\DataModule.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,C:\Users\User\Documents\Embarcadero\Studio\Projects\RadMyFriend.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\RadShlt.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,C:\Users\User\Documents\Embarcadero\Studio\Projects\RadShlt.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\RadShlt.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.635,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\DeleteWorker.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.635,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\DeleteWorker.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.193,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.229,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\AddNewExpense.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DataModule.pas"/>
+    <File Path="DataModule.dfm"/>
+    <File Path="AddNewExpense.pas"/>
+    <File Path="AddNewExpense.dfm"/>
+    <File Path="MainMenu.pas"/>
+    <File Path="MainMenu.dfm"/>
+    <File Path="AddNewWorker.pas"/>
+    <File Path="AddNewWorker.dfm"/>
+    <File Path="UpdateWorker.pas"/>
+    <File Path="UpdateWorker.dfm"/>
+    <File Path="UpdateExpense.pas"/>
+    <File Path="UpdateExpense.dfm"/>
+    <File Path="AddInfo.pas"/>
+    <File Path="AddInfo.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

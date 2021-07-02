@@ -1,0 +1,36 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TEmployers = class(TForm)
+    AddButton: TButton;
+    Updatebutton: TButton;
+    DeleteButton: TButton;
+    ExpensesButtonShow: TButton;
+    procedure ExpensesButtonShowClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Employers: TEmployers;
+
+implementation
+
+{$R *.dfm}
+
+uses Unit2;
+
+procedure TEmployers.ExpensesButtonShowClick(Sender: TObject);
+begin
+Expenses.Show;
+end;
+
+end.

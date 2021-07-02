@@ -1,0 +1,52 @@
+unit MainMenu;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, FireDAC.Stan.Intf, FireDAC.Stan.Option,
+  FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf,
+  FireDAC.DApt.Intf, FireDAC.Stan.Async, FireDAC.DApt, Data.DB, Vcl.StdCtrls,
+  Vcl.Grids, Vcl.DBGrids, Vcl.ExtCtrls, FireDAC.Comp.Client,
+  FireDAC.Comp.DataSet, Vcl.ComCtrls;
+
+type
+  TMainForm = class(TForm)
+    PageControl1: TPageControl;
+    Workers: TTabSheet;
+    Expenses: TTabSheet;
+    Report: TTabSheet;
+    ExpensesQuery: TFDQuery;
+    FDUpdateExpenses: TFDUpdateSQL;
+    Panel1: TPanel;
+    DBGrid1: TDBGrid;
+    Panel2: TPanel;
+    AddNewWorker: TButton;
+    DeleteWorker: TButton;
+    Panel3: TPanel;
+    DBGrid2: TDBGrid;
+    Panel4: TPanel;
+    AddNewExpense: TButton;
+    UpdateExpense: TButton;
+    DeleteExpense: TButton;
+    Panel5: TPanel;
+    DBGrid3: TDBGrid;
+    Panel6: TPanel;
+    AddNewReport: TButton;
+    AddNewInfo: TButton;
+    trWrite: TFDTransaction;
+    DataSource1: TDataSource;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+end.

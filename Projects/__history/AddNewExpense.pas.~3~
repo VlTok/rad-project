@@ -1,0 +1,35 @@
+unit AddNewExpense;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TAddNewExpenses = class(TForm)
+    Label1: TLabel;
+    Edit1: TEdit;
+    Button1: TButton;
+    Button2: TButton;
+    procedure ButtonClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  AddNewExpenses: TAddNewExpenses;
+
+implementation
+
+{$R *.dfm}
+
+procedure TAddNewExpenses.ButtonClick(Sender: TObject);
+begin
+  Self.ModalResult := mrOK;
+  Close();
+end;
+
+end.
